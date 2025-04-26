@@ -17,6 +17,9 @@ tracking. Whether you're commuting, running errands, or exploring the city, CTA 
 - **Easy-to-use, lightweight design**
 
 ## Screenshots
+
+<img src="https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-1.png" alt="Screenshot-1" width="300" height="500"/>
+
 ![1](https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-1.png)
 
 ![2](https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-2.png)
