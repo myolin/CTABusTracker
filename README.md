@@ -1,0 +1,19 @@
+# CTA Bus Tracker
+
+CTA Bus Tracker is a native Android app written in Java. Stay on schedule with the CTA Bus Tracker app! Get real-time bus arrival 
+information for all Chicago Transit Authority bus routes. Easily find nearby stops, get accurate predictions powered by live GPS
+tracking. Whether you're commuting, running errands, or exploring the city, CTA Bus Tracker helps you plan smarter and ride easier.
+
+## Developed By:
+
+- **Myo Lin**
+
+## Features
+
+### - Live bus arrival times
+### - Find nearby bus stops within 2000m of user's location
+### - Service alerts and updates
+### - Live GPS location of selected bus
+### - Easy-to-use, lightweight design
+
+## Screenshots
