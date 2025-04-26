@@ -18,7 +18,7 @@ tracking. Whether you're commuting, running errands, or exploring the city, CTA 
 
 ## Screenshots
 
-<img src="https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-1.png" alt="Screenshot-1" width="250" height="400"/>
+<img src="https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-1.png" alt="Screenshot-1" width="250" height="500"/>
 
 ![1](https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-1.png)
 
