@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CTABusTracker</string>
+    <string name="file_name">Routes.json</string>
+    <string name="main_title">\t\t\tBus Tracker - CTA</string>
+    <string name="hint">Search by route number/name</string>
+    <string name="info_dialog_1">CTA Bus Tracker data provided by Chicago Transit Authority</string>
+    <string name="info_dialog_url">https://www.transitchicago.com/developers/bustracker/</string>
+    <string name="MIN_DISTANCE">1000</string>
+    <string name="DUE">Due in 0 mins</string>
+</resources>

@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CTABusTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/title</item>
+        <item name="android:fontFamily">@font/helvetica_neue_medium</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="materialAlertDialogTheme">@style/CustomAlertDialog</item>
+    </style>
+
+    <style name="Theme.CTABusTracker" parent="Base.Theme.CTABusTracker" />
+
+    <!-- Alert Dialog -->
+    <style name="CustomAlertDialog" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyle</item>
+        <item name="buttonBarNegativeButtonStyle">@style/PositiveButtonStyle</item>
+        <item name="materialAlertDialogTitleTextStyle">@style/AlertDialogTitleStyle</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/AlertDialogBodyStyle</item>
+    </style>
+
+    <style name="PositiveButtonStyle" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="AlertDialogTitleStyle" parent="MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="AlertDialogBodyStyle" parent="MaterialAlertDialog.MaterialComponents.Body.Text">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+</resources>
