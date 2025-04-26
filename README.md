@@ -10,10 +10,10 @@ tracking. Whether you're commuting, running errands, or exploring the city, CTA 
 
 ## Features
 
-### Live bus arrival times
-### Find nearby bus stops
-### Service alerts and updates
-### Live GPS location of selected bus
-### Easy-to-use, lightweight design
+### - Live bus arrival times
+### - Find nearby bus stops
+### - Service alerts and updates
+### - Live GPS location of selected bus
+### - Easy-to-use, lightweight design
 
 ## Screenshots
