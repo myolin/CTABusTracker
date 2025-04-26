@@ -11,7 +11,7 @@ tracking. Whether you're commuting, running errands, or exploring the city, CTA 
 ## Features
 
 ### - Live bus arrival times
-### - Find nearby bus stops
+### - Find nearby bus stops within 2000m of user's location
 ### - Service alerts and updates
 ### - Live GPS location of selected bus
 ### - Easy-to-use, lightweight design
