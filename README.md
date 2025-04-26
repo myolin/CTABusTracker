@@ -20,6 +20,14 @@ tracking. Whether you're commuting, running errands, or exploring the city, CTA 
 
 <img src="https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-1.png" alt="Screenshot-1" width="250" height="500"/>
 
-![1](https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-1.png)
+<img src="https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-2.png" alt="Screenshot-2" width="250" height="500"/>
 
-![2](https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-2.png)
+<img src="https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-3.png" alt="Screenshot-3" width="250" height="500"/>
+
+<img src="https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-4.png" alt="Screenshot-4" width="250" height="500"/>
+
+<img src="https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-5.png" alt="Screenshot-5" width="250" height="500"/>
+
+<img src="https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-6.png" alt="Screenshot-6" width="250" height="500"/>
+
+<img src="https://github.com/myolin/CTABusTracker/blob/master/Screenshot/Screenshot-7.png" alt="Screenshot-7" width="250" height="500"/>
